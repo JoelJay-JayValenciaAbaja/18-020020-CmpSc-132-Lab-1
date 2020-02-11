@@ -12,5 +12,5 @@ Lab Activity 1
 
 My first GitHub commit!
 
-
 # I love Elmer Gapuzan
+# I love Marc Jerome
